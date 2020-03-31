@@ -5,3 +5,8 @@ Hi, my name is Mikhail. I'm a developer with broad experience in e-commerce and 
 I pay great attention to writing clean and maintainable code, automated testing, effective written communication, and deep understanding of a business domain.
 
 **[Click to download CV (pdf)](https://github.com/mgrigoriev/CV/raw/master/CV_Mikhail_Grigoriev_en.pdf)**
+
+
+----
+
+Email me at mgrigoriev@gmail.com
